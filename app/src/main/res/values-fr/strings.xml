@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bonjour/Au Revoir</string>
+    <string name="usernameTitle">Nom d’utilisateur</string>
+    <string name="passwordTitle">Mot de passe</string>
+    <string name="loginButton">S’identifier</string>
+    <string name="failToast">Connexion non réussie</string>
+    <string name="languageTitle">Francais</string>
+    <string name="greetingButton">Salutation</string>
+    <string name="greetingToast">Bon jour</string>
+    <string name="goodbyeButton">Au revoir</string>
+    <string name="goodbyeToast">A plus tard</string>
+    <string name="nameTitle">Prenom</string>
+    <string name="cityTitle">Ville</string>
+    <string name="showCityButton">Afficher La Ville</string>
+
+</resources>

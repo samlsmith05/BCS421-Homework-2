@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hello/Goodbye</string>
+    <string name="usernameTitle">Username</string>
+    <string name="passwordTitle">Password</string>
+    <string name="loginButton">LOGIN</string>
+    <string name="failToast">Login not successful</string>
+    <string name="languageTitle">English</string>
+    <string name="greetingButton">GREETING</string>
+    <string name="greetingToast">Hello</string>
+    <string name="goodbyeButton">GOODBYE</string>
+    <string name="goodbyeToast">See you later</string>
+    <string name="nameTitle">Name</string>
+    <string name="cityTitle">City</string>
+    <string name="showCityButton">SHOW CITY</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hola/Adios</string>
+    <string name="usernameTitle">Nombre de usuario</string>
+    <string name="passwordTitle">Contrasena</string>
+    <string name="loginButton">Iniciar sesion</string>
+    <string name="failToast">Inicio de sesión no exitoso</string>
+    <string name="languageTitle">Espanol</string>
+    <string name="greetingButton">Saludo</string>
+    <string name="greetingToast">Hola</string>
+    <string name="goodbyeButton">Adios</string>
+    <string name="goodbyeToast">Hasta luego</string>
+    <string name="nameTitle">Nombre</string>
+    <string name="cityTitle">Ciudad</string>
+    <string name="showCityButton">Mostrar Ciudad</string>
+
+</resources>
